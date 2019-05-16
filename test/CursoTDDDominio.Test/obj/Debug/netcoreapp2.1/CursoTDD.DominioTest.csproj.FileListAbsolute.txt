@@ -1,0 +1,14 @@
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\bin\Debug\netcoreapp2.1\CursoTDD.DominioTest.deps.json
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\bin\Debug\netcoreapp2.1\CursoTDD.DominioTest.runtimeconfig.json
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\bin\Debug\netcoreapp2.1\CursoTDD.DominioTest.runtimeconfig.dev.json
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\bin\Debug\netcoreapp2.1\CursoTDD.DominioTest.dll
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\bin\Debug\netcoreapp2.1\CursoTDD.DominioTest.pdb
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\obj\Debug\netcoreapp2.1\CursoTDD.DominioTest.csprojAssemblyReference.cache
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\obj\Debug\netcoreapp2.1\CursoTDD.DominioTest.csproj.CoreCompileInputs.cache
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\obj\Debug\netcoreapp2.1\CursoTDD.DominioTest.AssemblyInfoInputs.cache
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\obj\Debug\netcoreapp2.1\CursoTDD.DominioTest.AssemblyInfo.cs
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\obj\Debug\netcoreapp2.1\CursoTDD.DominioTest.dll
+C:\Users\luizi\source\repos\CursoTDD\test\CursoTDDDominio.Test\obj\Debug\netcoreapp2.1\CursoTDD.DominioTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\luizi\source\repos\CursoTDD\src\CursoTDD.Dominio\bin\Debug\netstandard2.0\CursoTDD.Dominio.deps.json
+C:\Users\luizi\source\repos\CursoTDD\src\CursoTDD.Dominio\bin\Debug\netstandard2.0\CursoTDD.Dominio.dll
+C:\Users\luizi\source\repos\CursoTDD\src\CursoTDD.Dominio\bin\Debug\netstandard2.0\CursoTDD.Dominio.pdb
+C:\Users\luizi\source\repos\CursoTDD\src\CursoTDD.Dominio\obj\Debug\netstandard2.0\CursoTDD.Dominio.csprojAssemblyReference.cache
+C:\Users\luizi\source\repos\CursoTDD\src\CursoTDD.Dominio\obj\Debug\netstandard2.0\CursoTDD.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\luizi\source\repos\CursoTDD\src\CursoTDD.Dominio\obj\Debug\netstandard2.0\CursoTDD.Dominio.AssemblyInfoInputs.cache
+C:\Users\luizi\source\repos\CursoTDD\src\CursoTDD.Dominio\obj\Debug\netstandard2.0\CursoTDD.Dominio.AssemblyInfo.cs
+C:\Users\luizi\source\repos\CursoTDD\src\CursoTDD.Dominio\obj\Debug\netstandard2.0\CursoTDD.Dominio.dll
+C:\Users\luizi\source\repos\CursoTDD\src\CursoTDD.Dominio\obj\Debug\netstandard2.0\CursoTDD.Dominio.pdb
